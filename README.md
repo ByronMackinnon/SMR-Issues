@@ -1,7 +1,7 @@
 <p align="center"><img width=25% src="https://cdn.discordapp.com/avatars/783059500915621928/7635173ec3c1d1c89803bc899a912f0d.png"></p>
 <h1 align="center">SixMansRedux</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Discord](https://img.shields.io/badge/discord-v1.6.0+-blue.svg)
 [![GitHub Issues](https://img.shields.io/github/issues/byronmackinnon/SMR-Issues.svg)](https://github.com/byronmackinnon/SMR-Issues/issues)
